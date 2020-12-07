@@ -1,0 +1,19 @@
+.AgentTile {
+  align-items: center;
+  background: rgba(255, 255, 255, 0.1);
+  cursor: pointer;
+  display: flex;
+  margin-bottom: 1rem;
+  padding: 1rem;
+
+  &__img {
+    margin-right: 1rem;
+  }
+
+  &__name {
+    color: #fff;
+    font-size: 1.8rem;
+    letter-spacing: 0.1ch;
+    text-transform: uppercase;
+  }
+}

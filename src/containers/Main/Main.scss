@@ -1,0 +1,12 @@
+.Main {
+  background: url('../../assets/images/cover.png');
+  background-position: center;
+  background-size: cover;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  height: 100vh;
+
+  &__left {
+    padding: 4rem 3rem;
+  }
+}
