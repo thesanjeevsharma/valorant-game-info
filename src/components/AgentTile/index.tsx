@@ -5,14 +5,15 @@ import './AgentTile.scss'
 
 interface ComponentProps {
   agent: Agent
+  onClick: (name: string) => void
 }
 
-const AgentTile: React.FC<ComponentProps> = ({agent}) => {
+const AgentTile: React.FC<ComponentProps> = ({agent, onClick}) => {
   return (
-    <div className="AgentTile">
+    <button className="AgentTile" onClick={() => onClick(agent.name)}>
       <img alt={agent.name} className="AgentTile__img" src="https://via.placeholder.com/80" />
       <h2 className="AgentTile__name">{agent.name}</h2>
-    </div>
+    </button>
   )
 }
 

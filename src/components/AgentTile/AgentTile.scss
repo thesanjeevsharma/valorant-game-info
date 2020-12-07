@@ -1,10 +1,12 @@
 .AgentTile {
   align-items: center;
   background: rgba(255, 255, 255, 0.1);
+  border: none;
   cursor: pointer;
   display: flex;
   margin-bottom: 1rem;
   padding: 1rem;
+  width: 100%;
 
   &__img {
     margin-right: 1rem;

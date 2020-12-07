@@ -6,7 +6,12 @@
   grid-template-columns: repeat(3, 1fr);
   height: 100vh;
 
-  &__left {
-    padding: 4rem 3rem;
+  > div {
+    padding: 3rem;
+  }
+
+  &__middle__img {
+    max-height: calc(100vh - 6rem);
+    width: auto;
   }
 }
