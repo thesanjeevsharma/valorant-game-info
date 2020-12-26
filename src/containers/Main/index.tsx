@@ -26,7 +26,9 @@ const Main: React.FC = () => {
   }
 
   const renderAgentsList = () => {
-    return agents.map((agent) => <AgentTile agent={agent} onClick={filterAndSelectAgent} />)
+    return agents.map((agent) => (
+      <AgentTile active={selectedAgent?.name === agent.name} agent={agent} onClick={filterAndSelectAgent} />
+    ))
   }
 
   return (
