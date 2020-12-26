@@ -1,0 +1,24 @@
+.AgentInfo {
+  &__bio {
+    color: #fff;
+  }
+
+  &__section-title {
+    color: #fff;
+    letter-spacing: 0.1ch;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+
+    &:not(:first-child) {
+      margin-top: 32px;
+    }
+  }
+
+  &__role {
+    color: #eaeeb2;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0.1ch;
+    text-transform: uppercase;
+  }
+}

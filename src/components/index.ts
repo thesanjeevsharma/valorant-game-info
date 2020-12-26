@@ -1,3 +1,4 @@
+import AgentInfo from './AgentInfo'
 import AgentTile from './AgentTile'
 
-export {AgentTile}
+export {AgentInfo, AgentTile}
