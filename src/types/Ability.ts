@@ -1,7 +1,5 @@
-export type AbilityKey = 'Q' | 'X' | 'C' | 'E'
-
 export interface Ability {
-  key: AbilityKey
+  key: string
   title: string
   icon: string
   info: string

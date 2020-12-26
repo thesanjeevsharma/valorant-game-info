@@ -1,6 +1,7 @@
 import React from 'react'
 import {Agent} from '../../types/Agent'
 
+import {AgentAbilities} from '..'
 import './AgentInfo.scss'
 
 interface ComponentProps {
@@ -8,10 +9,6 @@ interface ComponentProps {
 }
 
 const AgentInfo: React.FC<ComponentProps> = ({agent}) => {
-  const renderAbilities = () => {
-    return <p>Abilities!</p>
-  }
-
   return (
     <div className="AgentInfo">
       <h5 className="AgentInfo__section-title">&#47;&#47; Role</h5>
@@ -19,7 +16,7 @@ const AgentInfo: React.FC<ComponentProps> = ({agent}) => {
       <h5 className="AgentInfo__section-title">&#47;&#47; Biography</h5>
       <p className="AgentInfo__bio">{agent?.bio}</p>
       <h5 className="AgentInfo__section-title">&#47;&#47; Abilities</h5>
-      {renderAbilities()}
+      <AgentAbilities abilities={agent?.abilities || []} />
     </div>
   )
 }

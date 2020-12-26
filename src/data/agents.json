@@ -3,18 +3,108 @@
     "name": "Jett",
     "role": "Duelist",
     "image": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltceaa6cf20d328bd5/5eb7cdc1b1f2e27c950d2aaa/V_AGENTS_587x900_Jett.png",
-    "bio": "Representing her home country of South Korea, Jett's agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies before they even know what hit them."
+    "bio": "Representing her home country of South Korea, Jett's agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies before they even know what hit them.",
+    "abilities": [
+      {
+        "key": "Q",
+        "title": "Updraft",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltce7928301a67a33a/5eaf861103f6e72ff388cc20/TX_Jett_Q.png",
+        "info": "INSTANTLY propel Jett high into the air.",
+        "video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2c46e5d7a51be140/5ecad7f552c5395e0f2dd0de/Jett_Q_v001_web.mp4"
+      },
+      {
+        "key": "E",
+        "title": "Tailwind",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta0beeaa4a7e1ed78/5eaf8611b8a6356e4ddc1013/TX_Jett_E.png",
+        "info": "INSTANTLY propel Jett in the direction she is moving. If Jett is standing still, she will propel forward",
+        "video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5368134438181520/5ecad7f6e2a559592eb0c1b4/Jett_E_v001_web.mp4"
+      },
+      {
+        "key": "C",
+        "title": "Cloudburst",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf137993847c71770/5eaf8611d4b10d15d3e8db4e/TX_Jett_C.png",
+        "info": "INSTANTLY throw a projectile that expands into a brief vision-blocking cloud on impact with a surface. HOLD the ability key to curve the smoke in the direction of your crosshair.",
+        "video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb15019d03f48b8c3/5ecad7f7beb6c333c3a0f59d/Jett_C_v001_web.mp4"
+      },
+      {
+        "key": "X",
+        "title": "Blade Storm",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb3e956f9fb96318e/5eaf86112b79652f27c32a06/TX_Jett_X.png",
+        "info": "EQUIP a set of highly accurate knives that recharge on killing an opponent. FIRE to throw a single knife at your target. ALTERNATE FIRE to throw all remaining daggers at your target.",
+        "video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta43d8d506e2f5e00/5ecad7f6957e405e0990574d/Jett_X_v001_web.mp4"
+      }
+    ]
   },
   {
     "name": "Sage",
     "role": "Sentinel",
     "image": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8a627ec10b57f4f2/5eb7cdc16509f3370a5a93b7/V_AGENTS_587x900_sage.png",
-    "bio": "The stronghold of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off aggressive pushes, she provides a calm center to a hellish fight."
+    "bio": "The stronghold of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off aggressive pushes, she provides a calm center to a hellish fight.",
+    "abilities": [
+      {
+        "key": "Q",
+        "title": "Slow Orb",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt295acba83a83496d/5eaf85beb8a6356e4ddc1007/TX_Sage_Q.png",
+        "info": "EQUIP a slowing orb. FIRE to throw a slowing orb forward that detonates upon landing, creating a lingering field that slows players caught inside of it.",
+        "video": ""
+      },
+      {
+        "key": "E",
+        "title": "Healing Orb",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc6355bb295e64ba1/5efa55c138fa326e2aaf5c3f/TX_Sage_E.png",
+        "info": "EQUIP a healing orb. FIRE with your crosshairs over a damaged ally to activate a heal-over-time on them. ALT FIRE while Sage is damaged to activate a self heal-over-time.",
+        "video": ""
+      },
+      {
+        "key": "C",
+        "title": "Barrier Orb",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt368b2f4136858aed/5eaf85becf88d36e47cf029f/TX_Sage_C.png",
+        "info": "EQUIP a barrier orb. FIRE places a solid wall. ALT FIRE rotates the targeter.",
+        "video": ""
+      },
+      {
+        "key": "X",
+        "title": "Resurrection",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt39a8fe8deb6389f8/5efa55d38732f51d8514604f/TX_Sage_X.png",
+        "info": "EQUIP a resurrection ability. FIRE with your crosshairs placed over a dead ally to begin resurrecting them. After a brief channel, the ally will be brought back to life with full health.",
+        "video": ""
+      }
+    ]
   },
   {
     "name": "Sova",
     "role": "Initiator",
     "image": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf11234f4775729b7/5ebf2c275e73766852c8d5d4/V_AGENTS_587x900_ALL_Sova_2.png",
-    "bio": "Born from the eternal winter of Russia's tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide."
+    "bio": "Born from the eternal winter of Russia's tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide.",
+    "abilities": [
+      {
+        "key": "Q",
+        "title": "Shock Bolt",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltebf4f748f87b2222/5eaf85dc4398082ffe24018f/TX_Sova_Q.png",
+        "info": "EQUIP a bow with a shock bolt. FIRE to send the explosive forward, detonating upon collision and damaging players nearby. HOLD FIRE to extend the range of the projectile. ALTERNATE FIRE to add up to two bounces to this arrow.",
+        "video": ""
+      },
+      {
+        "key": "E",
+        "title": "Recon Bolt",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5084114604f20525/5eaf85b108d37e6d82ef74ef/TX_Sova_E.png",
+        "info": "EQUIP a bow with a recon bolt. FIRE to send the recon bolt forward, activating upon collision and revealing the location of nearby enemies caught in the line of sight of the bolt. HOLD FIRE to extend the range of the projectile. ALTERNATE FIRE to add up to two bounces to this arrow.",
+        "video": ""
+      },
+      {
+        "key": "C",
+        "title": "Owl Drone",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt74a6f56b5c37edb5/5eaf85b1f66b2515dea76b26/TX_Sova_C.png",
+        "info": "EQUIP an owl drone. FIRE to deploy and take control of movement of the drone. While in control of the drone, FIRE to shoot a marking dart. This dart will reveal the location of any player struck by the dart.",
+        "video": ""
+      },
+      {
+        "key": "X",
+        "title": "Hunter's Fury",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte5515bdb07fabe98/5eaf85b1b8a6356e4ddc1001/TX_Sova_X.png",
+        "info": "EQUIP a bow with three long-range wall-piercing energy blasts. FIRE to release an energy blast in a line in front of Sova, dealing damage and revealing the location of enemies caught in the line. This ability can be RE-USED up to two more times while the ability timer is active.",
+        "video": ""
+      }
+    ]
   }
 ]
