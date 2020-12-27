@@ -53,4 +53,10 @@
       place-items: center;
     }
   }
+
+  @media (max-width: 960px) {
+    &__Key {
+      outline: none;
+    }
+  }
 }
