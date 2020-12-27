@@ -26,11 +26,6 @@
     }
   }
 
-  &__middle {
-    display: grid;
-    place-items: center;
-  }
-
   @media (max-width: 1184px) {
     grid-template-columns: auto;
     grid-template-areas:
@@ -39,10 +34,11 @@
     overflow: auto;
 
     &__img {
-      max-height: calc(100vh - 6rem - 96px);
+      height: calc(100vh - 6rem - 96px);
     }
 
     &__left {
+      align-items: center;
       display: flex;
       grid-area: list;
       height: auto;
@@ -62,5 +58,19 @@
       'list'
       'image'
       'info';
+
+    > div {
+      padding: 1rem;
+      max-width: 100vw;
+    }
+
+    &__middle {
+      display: flex;
+      justify-content: center;
+    }
+
+    &__left {
+      height: 60px;
+    }
   }
 }
