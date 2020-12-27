@@ -26,4 +26,10 @@
     letter-spacing: 0.1ch;
     text-transform: uppercase;
   }
+
+  @media (max-width: 1240px) {
+    &__name {
+      font-size: 1.2rem;
+    }
+  }
 }

@@ -25,4 +25,42 @@
       display: none;
     }
   }
+
+  &__middle {
+    display: grid;
+    place-items: center;
+  }
+
+  @media (max-width: 1184px) {
+    grid-template-columns: auto;
+    grid-template-areas:
+      'list list'
+      'image info';
+    overflow: auto;
+
+    &__img {
+      max-height: calc(100vh - 6rem - 96px);
+    }
+
+    &__left {
+      display: flex;
+      grid-area: list;
+      height: auto;
+    }
+
+    &__middle {
+      grid-area: image;
+    }
+
+    &__right {
+      grid-area: info;
+    }
+  }
+
+  @media (max-width: 960px) {
+    grid-template-areas:
+      'list'
+      'image'
+      'info';
+  }
 }
