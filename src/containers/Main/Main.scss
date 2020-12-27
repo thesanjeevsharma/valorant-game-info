@@ -5,6 +5,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   height: 100vh;
+  overflow: hidden;
 
   > div {
     padding: 3rem;
@@ -13,5 +14,15 @@
   &__img {
     max-height: calc(100vh - 6rem);
     width: auto;
+  }
+
+  &__left {
+    height: calc(100vh - 6rem);
+    overflow: auto;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
   }
 }
