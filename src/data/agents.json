@@ -106,5 +106,365 @@
         "video": ""
       }
     ]
+  },
+  {
+    "name": "Brimstone",
+    "role": "Controller",
+    "image": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt26fcf1b5752514ee/5eb7cdbfc1dc88298d5d3799/V_AGENTS_587x900_Brimstone.png",
+    "bio": "Joining from the USA, Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and from a distance make him an unmatched boots-on-the-ground commander.",
+    "abilities": [
+      {
+        "key": "Q",
+        "title": "Incendiary",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29aa6cc80f1caa7b/5eaf8607af7e315106b47daa/TX_Brimstone_Q.png",
+        "info": "EQUIP an incendiary grenade launcher. FIRE to launch a grenade that detonates as it comes to a rest on the floor, creating a lingering fire zone that damages players within the zone.",
+        "video": ""
+      },
+      {
+        "key": "E",
+        "title": "Sky Smoke",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7c9f45408b1bf6e8/5eaf8607d4b10d15d3e8db48/TX_Brimstone_E.png",
+        "info": "EQUIP a tactical map. FIRE to set locations where Brimstone’s smoke clouds will land. ALTERNATE FIRE to confirm, launching long-lasting smoke clouds that block vision in the selected area.",
+        "video": ""
+      },
+      {
+        "key": "C",
+        "title": "Stim Beacon",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt71797e5088fa6920/5eaf8606b8a6356e4ddc100d/TX_Brimstone_C.png",
+        "info": "EQUIP a stim beacon. FIRE to toss the stim beacon in front of Brimstone. Upon landing, the stim beacon will create a field that grants players RapidFire.",
+        "video": ""
+      },
+      {
+        "key": "X",
+        "title": "Orbital Strike",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt68102861930b231f/5eaf8606f66b2515dea76b38/TX_Brimstone_X.png",
+        "info": "EQUIP a tactical map. FIRE to launch a lingering orbital strike laser at the selected location, dealing high damage-over-time to players caught in the selected area.",
+        "video": ""
+      }
+    ]
+  },
+  {
+    "name": "Phoenix",
+    "role": "Duelist",
+    "image": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf0200e1821b5b39f/5eb7cdc144bf8261a04d87f9/V_AGENTS_587x900_Phx.png",
+    "bio": "Hailing from the U.K., Phoenix's star power shines through in his fighting style, igniting the battlefield with flash and flare. Whether he's got backup or not, he'll rush into a fight on his own terms.",
+    "abilities": [
+      {
+        "key": "Q",
+        "title": "Curveball",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb125dfdcd673a9a8/5eaf85e95751b2150e57a803/TX_Pheonix_Q.png",
+        "info": "EQUIP a flare orb that takes a curving path and detonates shortly after throwing. FIRE to curve the flare orb to the left, detonating and blinding any player who sees the orb. ALTERNATE FIRE to curve the flare orb to the right.",
+        "video": ""
+      },
+      {
+        "key": "E",
+        "title": "Hot Hands",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb239d633e68d9b65/5eaf85e94398082ffe240195/TX_Pheonix_E.png",
+        "info": "EQUIP a fireball. FIRE to throw a fireball that explodes after a set amount of time or upon hitting the ground, creating a lingering fire zone that damages enemies.",
+        "video": ""
+      },
+      {
+        "key": "C",
+        "title": "Blaze",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt40cafc8e39b4fcbd/5eaf85e903f6e72ff388cc1a/TX_Pheonix_C.png",
+        "info": "EQUIP a flame wall. FIRE to create a line of flame that moves forward, creating a wall of fire that blocks vision and damages players passing through it. HOLD FIRE to bend the wall in the direction of your crosshair.",
+        "video": ""
+      },
+      {
+        "key": "X",
+        "title": "Run It Back",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt26ed15b080ee68b1/5eaf85e91b51e36d7c1b6ad0/TX_Pheonix_X.png",
+        "info": "INSTANTLY place a marker at Phoenix’s location. While this ability is active, dying or allowing the timer to expire will end this ability and bring Phoenix back to this location with full health.",
+        "video": ""
+      }
+    ]
+  },
+  {
+    "name": "Viper",
+    "role": "Controller",
+    "image": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc825c6589eda7717/5eb7cdc6ee88132a6f6cfc25/V_AGENTS_587x900_Viper.png",
+    "bio": "The American chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and cripple the enemy's vision. If the toxins don't kill her prey, her mind games surely will.",
+    "abilities": [
+      {
+        "key": "Q",
+        "title": "Poison Cloud",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltab09d009a46f6c08/5eaf85a2cf88d36e47cf0299/TX_Viper_Q.png",
+        "info": "EQUIP a gas emitter. FIRE to throw the emitter that perpetually remains throughout the round. RE-USE the ability to create a toxic gas cloud at the cost of fuel. This ability can be RE-USED more than once and can be picked up to be REDEPLOYED.",
+        "video": ""
+      },
+      {
+        "key": "E",
+        "title": "Toxic Screen",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3c4a5fda3e7e8f16/5eaf85a226a7212f2db1beb6/TX_Viper_E.png",
+        "info": "EQUIP a gas emitter launcher. FIRE to deploy a long line of gas emitters. RE-USE the ability to create a tall wall of toxic gas at the cost of fuel. This ability can be RE-USED more than once.",
+        "video": ""
+      },
+      {
+        "key": "C",
+        "title": "Snake Bite",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt93b26c70173b0875/5eaf85a3b8a6356e4ddc0ffb/TX_Viper_C.png",
+        "info": "EQUIP a chemical launcher. FIRE to launch a canister that shatters upon hitting the floor, creating a lingering chemical zone that damages and slows enemies.",
+        "video": ""
+      },
+      {
+        "key": "X",
+        "title": "Viper's Pit",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8698a8684bb39593/5eaf85a2f66b2515dea76b20/TX_Viper_X.png",
+        "info": "EQUIP a chemical sprayer. FIRE to spray a chemical cloud in all directions around Viper, creating a large cloud that reduces the vision range and maximum health of players inside of it.",
+        "video": ""
+      }
+    ]
+  },
+  {
+    "name": "Cypher",
+    "role": "Sentinel",
+    "image": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt158572ec37653cf3/5eb7cdc19df5cf37047009d1/V_AGENTS_587x900_Cypher.png",
+    "bio": "The Moroccan information broker, Cypher is a one-man surveillance network who keeps tabs on the enemy's every move. No secret is safe. No maneuver goes unseen. Cypher is always watching.",
+    "abilities": [
+      {
+        "key": "Q",
+        "title": "Cyber Cage",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta39b791956ecb79a/5eaf85fecf88d36e47cf02ab/TX_Cypher_Q.png",
+        "info": "INSTANTLY toss the cyber cage in front of Cypher. Activate to create a zone that blocks vision and slows enemies who pass through it.",
+        "video": ""
+      },
+      {
+        "key": "E",
+        "title": "Spy Cam",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt834a6ba8d533a3b7/5eaf85feaf7e315106b47da4/TX_Cypher_E.png",
+        "info": "EQUIP a spycam. FIRE to place the spycam at the targeted location. RE-USE this ability to take control of the camera’s view. While in control of the camera, FIRE to shoot a marking dart. This dart will reveal the location of any player struck by the dart.",
+        "video": ""
+      },
+      {
+        "key": "C",
+        "title": "Trapwire",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6397bce97bdb0ecd/5eaf85fef66b2515dea76b32/TX_Cypher_C.png",
+        "info": "EQUIP a trapwire. FIRE to place a destructible and covert tripwire at the targeted location creating a line that spans between the placed location and the wall opposite. Enemy players who cross a tripwire will be tethered, revealed, and dazed after a short period if they do not destroy the device in time. This ability can be picked up to be REDEPLOYED.",
+        "video": ""
+      },
+      {
+        "key": "X",
+        "title": "Neural Theft",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltcf313af5404f8f80/5eaf85fee6f6795e530a2711/TX_Cypher_X.png",
+        "info": "INSTANTLY use on a dead enemy player in your crosshairs to reveal the location of all living enemy players.",
+        "video": ""
+      }
+    ]
+  },
+  {
+    "name": "Reyna",
+    "role": "Duelist",
+    "image": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6577b1f58530e6b2/5eb7cdc121a5027d77420208/V_AGENTS_587x900_Reyna.png",
+    "bio": "Forged in the heart of Mexico, Reyna dominates single combat, popping off with each kill she scores. Her capability is only limited by her raw skill, making her highly dependent on performance.",
+    "abilities": [
+      {
+        "key": "Q",
+        "title": "Devour",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf10078de1865cc3a/5eb7cf1e241e5e628430676c/TX_Reyna_Q.png",
+        "info": "Enemies killed by Reyna leave behind Soul Orbs that last 3 seconds. INSTANTLY consume a nearby soul orb, rapidly healing for a short duration. Health gained through this skill exceeding 100 will decay over time. If EMPRESS is active, this skill will automatically cast and not consume the orb.",
+        "video": ""
+      },
+      {
+        "key": "E",
+        "title": "Dismiss",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7f61a763092dca17/5eb7cf1e7e251a2d4a46fdb3/TX_Reyna_E.png",
+        "info": "INSTANTLY consume a nearby soul orb, becoming intangible for a short duration. If EMPRESS is active, also become invisible",
+        "video": ""
+      },
+      {
+        "key": "C",
+        "title": "Leer",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1df6153d75480d43/5eb7cf1e8682422a765fc997/TX_Reyna_C.png",
+        "info": "EQUIP an ethereal destructible eye. ACTIVATE to cast the eye a short distance forward. The eye will Nearsight all enemies who look at it.",
+        "video": ""
+      },
+      {
+        "key": "X",
+        "title": "Empress",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte8a8889d3b17a9b9/5eb7cf1e1ea0c32e33b95fa6/TX_Reyna_X.png",
+        "info": "INSTANTLY enter a frenzy, increasing firing speed, equip and reload speed dramatically. Scoring a kill renews the duration.",
+        "video": ""
+      }
+    ]
+  },
+  {
+    "name": "Killjoy",
+    "role": "Sentinel",
+    "image": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt53405c26141beff8/5f21fda671ec397ef9bf0894/V_AGENTS_587x900_KillJoy_.png",
+    "bio": "The genius of Germany. Killjoy secures the battlefield with ease using her arsenal of inventions. If the damage from her gear doesn't stop her enemies, her robots' debuff will help make short work of them.",
+    "abilities": [
+      {
+        "key": "Q",
+        "title": "Alarmbot",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt143467a7379d4211/5f21feb94d73a00a2e1428d3/Copy_of_TX_KJ_Alarm.png",
+        "info": "EQUIP a covert Alarmbot. FIRE to deploy a bot that hunts down enemies that get in range. After reaching its target, the bot explodes, applying Vulernable. HOLD EQUIP to recall a deployed bot.",
+        "video": ""
+      },
+      {
+        "key": "E",
+        "title": "Turret",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1a4926627b38cc1a/5f2201490e38240638cd81d2/Copy_of_tx_kj_turret.png",
+        "info": "EQUIP a Turret. FIRE to deploy a turret that fires at enemies in a 180 degree cone. HOLD EQUIP to recall the deployed turret.",
+        "video": ""
+      },
+      {
+        "key": "C",
+        "title": "Nanoswarm",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4e53712407193852/5f22010d8ff50d070ad2d172/Copy_of_TX_KJ_Bees.png",
+        "info": "EQUIP a Nanoswarm grenade. FIRE to throw the grenade. Upon landing, the Nanoswarm goes covert. ACTIVATE the Nanoswarm to deploy a damaging swarm of nanobots.",
+        "video": ""
+      },
+      {
+        "key": "X",
+        "title": "Lockdown",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1e4113a934e67fa3/5f22018d71ec397ef9bf089e/Copy_of_TX_KJ_Lockdown.png",
+        "info": "EQUIP the Lockdown device. FIRE to deploy the device. After a long windup, the device Detains all enemies caught in the radius. The device can be destroyed by enemies.",
+        "video": ""
+      }
+    ]
+  },
+  {
+    "name": "Breach",
+    "role": "Initiator",
+    "image": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt100d13bfa8286a3d/5eb7cdc11ea0c32e33b95fa2/V_AGENTS_587x900_Breach.png",
+    "bio": "Breach, the bionic Swede, fires powerful, targeted kinetic blasts to aggressively clear a path through enemy ground. The damage and disruption he inflicts ensures no fight is ever fair.",
+    "abilities": [
+      {
+        "key": "Q",
+        "title": "Flashpoint",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf7b0c621601e5577/5eaf863af66b2515dea76b40/TX_Breach_Q.png",
+        "info": "EQUIP a blinding charge. FIRE the charge to set fast-acting burst through the wall. The charge detonates to blind all players looking at it.",
+        "video": ""
+      },
+      {
+        "key": "E",
+        "title": "Fault Line",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt40b144165bebbb57/5eaf863aa20afe612d82fb54/TX_Breach_E.png",
+        "info": "EQUIP a seismic blast. HOLD FIRE to increase the distance. RELEASE to set off the quake, dazing all players in its zone and in a line up to the zone.",
+        "video": ""
+      },
+      {
+        "key": "C",
+        "title": "Aftershock",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd59235294cc21d88/5eaf863acf88d36e47cf02b1/TX_Breach_C.png",
+        "info": "EQUIP a fusion charge. FIRE the charge to set a slow-acting burst through the wall. The burst does heavy damage to anyone caught in its area.",
+        "video": ""
+      },
+      {
+        "key": "X",
+        "title": "Rolling Thunder",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb39bc3e8df9012dc/5eaf863ad238e314f259fa93/TX_Breach_X.png",
+        "info": "EQUIP a seismic charge. FIRE to send a cascading quake through all terrain in a large cone. The quake dazes and knocks up anyone caught in it.",
+        "video": ""
+      }
+    ]
+  },
+  {
+    "name": "Omen",
+    "role": "Controller",
+    "image": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4e5af408cc7a87b5/5eb7cdc17bedc8627eff8deb/V_AGENTS_587x900_Omen.png",
+    "bio": "A phantom of a memory, Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as his foe scrambles to learn where he might strike next.",
+    "abilities": [
+      {
+        "key": "Q",
+        "title": "Paranoia",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt323e0178def67d36/5eaf85f4cf88d36e47cf02a5/TX_Omen_Q.png",
+        "info": "INSTANTLY fire a shadow projectile forward, briefly reducing the vision range of all players it touches. This projectile can pass straight through walls.",
+        "video": ""
+      },
+      {
+        "key": "E",
+        "title": "Dark Cover",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta95e6968cb32f519/5eaf85f44398082ffe24019b/TX_Omen_E.png",
+        "info": "EQUIP a shadow orb and see its range indicator. FIRE to throw the shadow orb to the marked location, creating a long-lasting shadow sphere that blocks vision. HOLD ALTERNATE FIRE while targeting to move the marker further away. HOLD the ability key with targeting to move the market closer.",
+        "video": ""
+      },
+      {
+        "key": "C",
+        "title": "Shrouded Step",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7016fed86331500b/5eaf85f41b51e36d7c1b6ad6/TX_Omen_C.png",
+        "info": "EQUIP a shadow walk ability and see its range indicator. FIRE to begin a brief channel, then teleport to the marked location.",
+        "video": ""
+      },
+      {
+        "key": "X",
+        "title": "From The Shadows",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd7b44696b74076d4/5eaf85f4f66b2515dea76b2c/TX_Omen_X.png",
+        "info": "EQUIP a tactical map. FIRE to begin teleporting to the selected location. While teleporting, Omen will appear as a Shade that can be destroyed by an enemy to cancel his teleport.",
+        "video": ""
+      }
+    ]
+  },
+  {
+    "name": "Raze",
+    "role": "Duelist",
+    "image": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6fef56a8182d0a81/5ebf2c2798f79d6925dbd6b4/V_AGENTS_587x900_ALL_Raze_2.png",
+    "bio": "Raze explodes out of Brazil with her big personality and big guns. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces with a generous dose of “boom”.",
+    "abilities": [
+      {
+        "key": "Q",
+        "title": "Blast Pack",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltdb74f287eee9fe76/5eaf862a248a28605479c91f/TX_Raze_Q.png",
+        "info": "INSTANTLY throw a Blast Pack that will stick to surfaces. RE-USE the ability after deployment to detonate, damaging and moving anything hit. Raze isn't damaged by this ability, but will still take fall damage if launched up far enough.",
+        "video": ""
+      },
+      {
+        "key": "E",
+        "title": "Paint Shells",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb0eb89e122c1f4ea/5eaf862ad238e314f259fa8b/TX_Raze_E.png",
+        "info": "EQUIP a cluster grenade. FIRE to throw the grenade, which does damage and creates sub-munitions, each doing damage to anyone in their range.",
+        "video": ""
+      },
+      {
+        "key": "C",
+        "title": "Boom Bot",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt44acc030d4d60182/5eaf862aa20afe612d82fb4e/TX_Raze_C.png",
+        "info": "EQUIP a Boom Bot. FIRE will deploy the bot, causing it to travel in a straight line on the ground, bouncing off walls. The Boom Bot will lock on to any enemies in its frontal cone and chase them, exploding for heavy damage if it reaches them.",
+        "video": ""
+      },
+      {
+        "key": "X",
+        "title": "Showstopper",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt60023b671f330740/5eaf862ae6f6795e530a2717/TX_Raze_X.png",
+        "info": "EQUIP a rocket launcher. FIRE shoots a rocket that does massive area damage on contact with anything.",
+        "video": ""
+      }
+    ]
+  },
+  {
+    "name": "Skye",
+    "role": "Initiator",
+    "image": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt302fcb2b9628c376/5f7fa6ff8db9ea0f149ece0a/V_AGENTS_587x900_ALL_Skye.png",
+    "bio": "Hailing from Australia, Skye and her band of beasts trail-blaze the way through hostile territory. With her creations hampering the enemy, and her power to heal others, the team is strongest and safest by Skye’s side.",
+    "abilities": [
+      {
+        "key": "Q",
+        "title": "Trailblazer",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta3c0de454b776542/5f7fa772e69fa40ef3183bda/SKye-abilities-_0000s_0003_ICONS_0000_Layer-1.png",
+        "info": "EQUIP a Tasmanian tiger trinket. FIRE to send out and take control of the predator. While in control, FIRE to leap forward, exploding in a concussive blast and damaging directly hit enemies.",
+        "video": ""
+      },
+      {
+        "key": "E",
+        "title": "Guiding Light",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7243683c6daf467d/5f7fa7729d46c20f09177ab7/SKye-abilities-_0000s_0002_ICONS_0001_Layer-2.png",
+        "info": "EQUIP a hawk trinket. FIRE to send it forward. HOLD FIRE to guide the hawk in the direction of your crosshair. RE-USE while the hawk is in flight to transform it into a flash that plays a hit confirm if an enemy was within range and line of sight.",
+        "video": ""
+      },
+      {
+        "key": "C",
+        "title": "Regrowth",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltaa1ff9d900a13d3a/5f7fa772f98ad40e91dc75e4/SKye-abilities-_0000s_0001_ICONS_0002_Layer-3.png",
+        "info": "EQUIP a healing trinket. HOLD FIRE to channel, healing allies in range and line of sight. Can be reused until her healing pool is depleted. Skye cannot heal herself.",
+        "video": ""
+      },
+      {
+        "key": "X",
+        "title": "Seekers",
+        "icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltce2ce64e31a00348/5f7fa77202e6b80ebf902384/SKye-abilities-_0000s_0000_ICONS_0003_Layer-4.png",
+        "info": "EQUIP a Seeker trinket. FIRE to send out three Seekers to track down the three closest enemies. If a Seeker reaches its target, it nearsights them.",
+        "video": ""
+      }
+    ]
   }
 ]
